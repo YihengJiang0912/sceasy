@@ -1,4 +1,4 @@
-Package: sceasy
+Package: sceasyjyh
 Type: Package
 Title: A package to help convert different single-cell data formats to each other
 Version: 0.0.7
